@@ -1,0 +1,23 @@
+[
+  {
+    "bgColor": "#FF6384",
+    "bgNamePaslon": "#5E0000",
+    "paslon": "NO.PASLON 3",
+    "name": "CINTARA SURYA PALOH",
+    "count": "78%"
+  },
+  {
+    "bgColor": "#FFCD56",
+    "bgNamePaslon": "#5E5400",
+    "paslon": "NO.PASLON 1",
+    "name": "SURYA SURYA",
+    "count": "45%"
+  },
+  {
+    "bgColor": "#36A2EB",
+    "bgNamePaslon": "#005E4D",
+    "paslon": "NO.PASLON 2",
+    "name": "CINTARA ",
+    "count": "25%"
+  }
+]
